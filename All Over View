@@ -1,0 +1,1934 @@
+​​ 
+
+​​c PROGRAMMING LANGUAGE​ 
+
+​​Er. SatyaPada Das​ 
+
+Text Box​ 
+
+​ ​ 
+
+    C PROGRAMMING LANGUAGE:  
+
+       C is a High-level Programming Language developed by Denise Ritche in 1972 at AT&T Bell Laboratory in USA. 
+
+    Programme: A Set of instruction used to Perform a Particular operation is called Programme. 
+
+    Steps in learning English Language: 
+
+Alphabets ---------->Word------------->Sentence --------->Paragraph  
+
+Digit's  
+
+Symbol  
+
+  
+
+    Steps in learning C: 
+
+(A-Z) Alphabets ------->Constant------> instructions ---->Program 
+
+(0-1) Digit's                     variable  
+
+(~, @, #) Symbol            Identifier  
+
+                                          Keywords 
+
+ 
+
+    Programming Language: The Language by which user can be able to develop a programme and Successfully Execute it is called as Programming Language. 
+
+Text BoxShape 
+
+Programming Language 
+
+Text Box                                                                                                                                                                                  
+
+ 
+
+ 
+
+    Procedure oriented /Function Oriented/Logic Oriented Programming Language: 
+
+The Language which develops by the concept of Top-Down Approach is called as Procedure Oriented/function/logic Oriented Programming Language. 
+
+Ex: - c 
+
+    The Approach which concepted logic rather than data is called as Top-Down Approach. 
+
+Shape                                                                                              Top 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                                                         Down  
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Object- Oriented Programming language: 
+
+The Language which develops by the concept of bottom-up Approach is called as Object-Oriented   Programming Language. 
+
+Ex: - C++, java, Python, .net etc. 
+
+    The Approach is Concepted up data rather than logic is called as bottom-up Approach.  
+
+                                                                                                  up 
+
+Shape                                                                                                                                                                                  
+
+ 
+
+                                                                                                                                                                                         
+
+                                                                                                                                                                          Bottom 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                                                         
+
+ 
+
+ 
+
+ 
+
+ 
+
+    High-Level Programming Language: High level or Problem Oriented Language have been designed to giving a better  
+
+Programming efficiency firster program development. And end user readable and understood this type programming languages.  
+
+Ex: - Python, Java, C++, JavaScript, Ruby, PHP 
+
+    Low-level Languages: are user to the hardware and have a Machine can easily understand the low-level language in comparison to human beings. 
+
+Ex: - binary, Octal, hexadecimal Numbers. 
+
+  
+
+    Machine language: binary Number’s (0 & 1) 
+
+ 
+
+    Assembly Language: Dynamic Numbers (P1, P2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Static Type Programming language: - Static typing means that the data types of variables are explicitly declared and checked at compile time, which is the time when the program is translated into machine code by the compiler. 
+
+Ex: - C, C++, Java, 
+
+    Dynamic Typed: -Dynamic typing allows variables to be associated with values without specifying their data types explicitly. The variable types are determined at runtime, enabling flexibility to change variable types during program execution. 
+
+ 
+
+    Constanta: - Constant is the fixed values which does not change during the Programme Execution. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Variable: - Variable is the is the place holder of the Constant whase value can changes or variable during programme execution. 
+
+    Integer: - Any number (whole number) 
+
+(+Positive number and – Negative Number and zero ‘0’) 
+
+    Integer can’t be form of decimal number. 
+
+    No symbol and no space in integer number. (Ex: -2, +3, -2023 etc) 
+
+    Float: - (After. + Number) (4 byte) 
+
+    Decimal number (Ex 0.37, -2.8, +8.7 etc) 
+
+    Double: - (After. 15 Numbers) (8byte) 
+
+    All thing and any Symbols in ‘__’ are cortisone is called character. 
+
+    Character: - (1 byte) (Ex: - ‘A’, ‘*’) 
+
+    String: - 0-255 (256) Collection of Character and any symbols any    
+
+Thing’s is called string “_____” String Ex: - “Pintu”, “123456”. 
+
+  
+
+    Syntax to declare a Variable :) 
+
+  
+
+Datatype variable name. 
+
+  
+
+    It should at least one alphabet. 
+
+    It may further combination of alphabets & digit. 
+
+    But it should start from an alphabet. 
+
+    No blank Space or Special Symbol allowed between variable name except underscore (_). 
+
+    It may uppercase or lowercase after but uppercase and lowercase are different. 
+
+    Keywords are not allowed as variable name.  
+
+    They are only 32 keywords available. 
+
+  
+
+    Variable Declare Ex: - 8, xy, 5xy, x_5_y, x-y, x y5, xy5, x_y3, x.y, if, if1, @xy, x      
+
+  
+
+    Datatype: - it is an identifier which specifier the size and type of data. 
+
+ 
+
+Pre-defined – Before Define  
+
+ 
+
+Fundamental: - At that hold one values is called Fundamental Data type. 
+
+Ex: - int x;                                                                     x 
+
+ 
+	
+
+ 
+
+             Then x = 5;   x = 7;       
+
+                                                                            
+
+                                                                                    2byte 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                                                                                   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Write a Program: -  
+
+    All the Programme start execution from main(). 
+
+    Its execution one after another statement as they present. 
+
+    All the instructions are treated as statements and all the statements should be terminated by semicolons (;). 
+
+    The variable should be declared Before use. 
+
+ 
+
+    Sample Program: - 
+
+ 
+
+#include<studio.h>                    # - Preprocessor, include-Program are including Program. 
+
+Void main()                                     studio.h - standard input and output .header file. 
+
+{                                                                       void - empty data type, main() - main Faction  
+
+printf("This is my 1st C Program");                    printf - used to output on the screen,  
+
+} 
+
+ 
+
+OUTPUT: - This is my 1st C Program 
+
+ 
+
+    Where can I write and run the C program? 
+
+                You can use an IDE to write and run the C program by following these steps: 
+
+ 
+
+Step 1: Open turbo C IDE (Integrated Development Environment), click on File, and then click on New. 
+
+Step 2: Write the C program code. 
+
+Step 3: Click on file and then Click Seve All You can fresh F2 for Seve your File name is for example (Pintu.c). 
+
+Step 4: Click on Compile or press Alt + F9 to compile the code. 
+
+Step 5: Click on Run or press Ctrl + F9 to run the code. 
+
+Step 6: And turbo C will open the console to show you the output of the program. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Output is: This my 1st C Program 
+
+ 
+
+ 
+
+ 
+
+    input /output Statement: -  
+
+  
+
+    Syntax: refers to the rules that govern the formation of grammatically correct sentences is called Syntax. 
+
+    Scanf("format string", & variable name); 
+
+  
+
+    Formats specifiers 
+
+    Int - %d 
+
+    Float - %f 
+
+    Double - %if 
+
+    Char - %c 
+
+    String - %s 
+
+  
+
+    Input Statement: The Statements by which Programme take the data form the users is called input Statement. 
+
+Ex: - scanf()  
+
+    Ex: int x; 
+
+scanf("%d", &x); 
+
+Int x, y; or int x; 
+
+                   int y; 
+
+scanf("%d %d", &x, &y); 
+
+Int x; 
+
+Float y; 
+
+Char c; 
+
+scanf("%d %f %c", &x, &y, &c); 
+
+    Output Statement: The Statements by which Programme given the output or result is called output statement. 
+
+Ex: - printf() 
+
+ Syntax: - printf("FormateShesfire", Variable name); 
+
+               printf("%d %f %c", x, y, c); 
+
+               printf("%d", x , I,); 
+
+Q.1. Write a program to addition of two number. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+Int x, y, z; 
+
+printf("Enter two number"); 
+
+Scanf("%d %d", &x, &y); 
+
+Z = x + y; 
+
+Printf("The Addition Value is %d", z); 
+
+} 
+
+Q.2. Write a program to Subtraction two numbers. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+Int a, b, c; 
+
+printf("Enter the a Value:"); 
+
+scanf("%d", &a); 
+
+printf("Enter the b Value:"); 
+
+pcanf(%d", &b); 
+
+c = a - b; 
+
+printf("The Subtraction Results is: %d", c); 
+
+} 
+
+Q.3. Write a Program to Multiplication two number. 
+
+#include<stdio.h> 
+
+Void main() 
+
+{ 
+
+Int d, e, f; 
+
+Printf("Enter The d Value:"); 
+
+Scanf("%d", &d); 
+
+Printf("Enter The e Value:"); 
+
+Scanf("%d", &e); 
+
+f = d * e; 
+
+Printf("The Multiplication Results is: %d", f); 
+
+} 
+
+Q.3. Write a program to Division two numbers. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int h, I, j; 
+
+printf("Enter the  h Value:"); 
+
+scanf("%d", &h); 
+
+printf("Enter the i Value:"); 
+
+scanf("%d", &i); 
+
+j = h / i; 
+
+printf("The Division Results is: %d", j); 
+
+}  
+
+Operator: - The Symbols which acts upon Operand to evaluate the expression is called as Operator. 
+
+According to the number of Operand Operator are 3 bytes. 
+
+    Unary. 
+
+    Binary. 
+
+    Ternary. 
+
+ 
+
+    Unary: - The operator which acts upon any one operand to evaluate the expression is called as unary Operator. 
+
+Ex: -              +, -, ++, -- 
+
+                                         +a  
+
+                                         -a 
+
+                                    ++a = a = a + 1 
+
+                              - -a = a = a – 1 
+
+    Increment Operator: - The Operator which increase the value of a operand by 1 is called increment Operator. 
+
+    Decrement Operator: - The Operator which Decreases the value of operand by 1 is called as decrement Operator. 
+
+    Pre-increment Operator 
+
+    Post-increment Operator 
+
+    Pre-increment Operator: - The operator which 1st increase the value of the operands than evaluate the expression is called as pre-increment Operator. Heave the operands. 
+
+Ex: - ++a, ++x, …. etc. 
+
+Simple Programme: -  
+
+#include<stdio.h> 
+
+ void main() 
+
+{ 
+
+Int x = 7, k; 
+
+k = ++x; 
+
+printf(“%d”, k); 8 
+
+printf(“%d”, x); 8 
+
+printf(“%d”, ++k); 9 
+
+printf(“%d”, ++x); 9 
+
+} 
+
+    Post-increment Operator: - The Operator which Post (Hold) the increments. First evaluate the expression that increment the value of operands is called as post increment operator. Have operator present after the operands. 
+
+Ex: - a++, x++…... etc. 
+
+Simple Programme: - 
+
+#include<stdio.h> 
+
+Void main() 
+
+{ 
+
+int x = 7, k; 
+
+k = x++; 
+
+printf(“%d”, k);  7 
+
+printf(“%d”, x); 8 
+
+printf(“%d”, k++); 7 
+
+printf(“%d”, x++); 8 
+
+printf(“%d”, k); 8 
+
+printf(“%d”, x ); 9 
+
+} 
+
+    Pre-Decrement: - In C programming, pre-decrement is an operation where the value of a variable is decremented by 1 before its value is used in an expression. It is denoted by the -- operator placed before the variable. Here's the syntax for pre-decrement. 
+
+Ex: -    --variable; --x,  --a, ….etc. 
+
+Simple Programme: - 
+
+#include<stdio.h> 
+
+Void main() 
+
+{ 
+
+int x = 7, k; 
+
+K = --x; 
+
+printf(“%d”, k); 6 
+
+printf(“%d”, x); 6 
+
+printf(“%d”, --k); 5 
+
+printf(“%d”, --x); 5 
+
+printf(“%d”, k); 5 
+
+printf(“%d”, x); 5 
+
+} 
+
+    Post-Decrement: - In C programming, post-decrement is an operation where the current value of a variable is used in an expression, and then the variable is decremented by 1. It is denoted by the ‘—' operator placed after the variable. Here's the syntax for post-decrement. 
+
+Ex: - variable--; x--, a-- …. etc. 
+
+Simple Program: - 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int x = 7, k; 
+
+k = x--; 
+
+printf(“%d”, k); 7 
+
+printf(“%d”, x); 6 
+
+printf(“%d”, k--); 7 
+
+printf(“%d”, x--); 6 
+
+printf(“%d”, k); 6 
+
+printf(“%d”, x); 5 
+
+} 
+
+Binary Operator: - The Operator which well upon two operands to enable the expression is called as binary operator. 
+
+Ex: - a+b, a-b, a*b, a<b……. etc. 
+
+Ternary Operation: - The operator which put-upon the three operands to evaluate the expression is called as ternary operator. It is also called as conditional operator. 
+
+Ex: - ? : 
+
+Syntax: - (Condition)?  (expression 1): (expression 2); 
+
+ 
+
+    Write a program to check for a largest Number among two numbers? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+Int x,y,l; 
+
+Printf(“Enter two number:\n”); 
+
+Scanf(“%d%d”,&x,&y); 
+
+l =(x>y)? x:y; 
+
+printf(“The largest Number is %d\n”,l); 
+
+} 
+
+    According to the operation operators are different types. 
+
+    Arithmetic Operator: +, -, *, /, % 
+
+    Relational Operator: <, <=,>>=, ==,!= 
+
+    Logical Operator: &&, || 
+
+    Assignment Operator:  = 
+
+    Increment/Decrement: ++, -- 
+
+    Conditional Operator: ? : 
+
+    Bitwise Operator: &, |, <<, >> 
+
+    Special Operator: , . .*-> This includes cast operator, comma, sizeof, reference, dereference, double pointer. 
+
+Contrale Statement: The Statement which control the flow of execution is called as control Statement. 
+
+ 
+
+                                                                   Simple if 
+
+    Conditional Statement:                  if else 
+
+                                                                          Nested if else 
+
+                                                                      Compound if 
+
+    Loop 
+
+    Switch 
+
+    Break 
+
+    Continue 
+
+    go to 
+
+Conditional Statement: it is the Control statement which control the flow of execution by means of a condition Statement. 
+
+    Simple if. In C Programming an if Statements is a control structure that allows you do execute a block of code based on a condition. The basics Syntax of a simple if Statements in c programming look like this. 
+
+Syntax.  
+
+If(Condition) 
+
+{ 
+
+Statement 1; 
+
+Statement 2; 
+
+Statement 3; 
+
+} 
+
+Condition: - The ‘if’ keyword is followed by a pair of parenthesis ‘( )’ inside these parenthesis you placed a condition which is either true (non-zero) or false (zero). 
+
+Code Block: - if the condition is the code inside the curly braces ‘{ }’ immediately following the ‘if’ Statements is execution .if the condition is false the code inside the curly braces is skipped. Look like this programme.⬇️ 
+
+  
+
+    Write a Programme to check for the Positive number. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int n; 
+
+printf(“Enter a Number”n); 
+
+scanf(“%d”,&n) 
+
+if(n>0) 
+
+{ 
+
+printf(“Number is +ve%d”,n); 
+
+} 
+
+} 
+
+    Write a Programme for a even number? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int n; 
+
+printf(“Enter any Number:\n”); 
+
+scanf(“%d”,&n); 
+
+if(n%2==0) 
+
+{ 
+
+printf(“Number is even %d\n”,n); 
+
+} 
+
+} 
+
+ 
+
+ 
+
+    Write a Programme to check Negative numbers? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int n; 
+
+printf(“ Enter a Number”); 
+
+scanf(“%d”, &n); 
+
+{ 
+
+if(n<0) 
+
+printf(“The %d is Nagative Number.\n,n”); 
+
+} 
+
+} 
+
+ 
+
+    Write a Programme to check odd Numbers? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int number; 
+
+printf(“Enter a Number”); 
+
+scanf(“%d”, &number); 
+
+if(number % 2 ! = 0) 
+
+{ 
+
+printf(“The number is odd.%d,number); 
+
+} 
+
+} 
+
+    Write a Programme to find the area of the circle? 
+
+#include<stdio.h> 
+
+void main() 
+
+{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+float r, area; 
+
+printf(“Enter the radius of circle:”); 
+
+scanf(“%f”, &r); 
+
+area= 3.141 * r * r; 
+
+printf(“The area of circle is. %f\n”,area); 
+
+} 
+
+ 
+
+    If else: in c programming the ‘if-else’ Statements is used for desion making. it allows you to execute a block of code if a specified condition is true and anther black of code if the condition is false. 
+
+ 
+
+Syntax: 
+
+                      If(Condition) 
+
+                      { 
+
+                      Statements; 
+
+                      Statement 1; 
+
+                      Statement2; 
+
+                      } 
+
+                   else 
+
+                      { 
+
+                      Statements; 
+
+                      Statement1; 
+
+                      Statement2; 
+
+                      } 
+
+Exp:  
+
+if(!printf(“BSET”)) 
+
+  { 
+
+   printf(“BSET”); 
+
+   } 
+
+else 
+
+   { 
+
+   printf(“BSET”); 
+
+   } 
+
+Condition: - The ‘if’ keyword is followed by a pair of parentheses’( )’  containing  a condition which is an expression the evaluate to ether true(non-zero) and false(zero). 
+
+Code Block (if true): - if The condition is true the code inside the first curly braces ‘{ }’ immediately flowing the ‘if’ statements is exacted. 
+
+Code block (if false): - if The condition is false the code inside the second curly braces ‘{ }’ flowing the ‘else’ Statement is exacted. 
+
+    Write a Programme to check for a largest number among two numbers? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int x,y; 
+
+printf(“Enter two number”); 
+
+scanf(“%d%d”,&x,&y); 
+
+if(x>y) 
+
+{ 
+
+printf(“x is largest %d\n”,x); 
+
+} 
+
+else 
+
+{ 
+
+printf(“y is largest %d\n”,y); 
+
+} 
+
+} 
+
+    Write a Programme to check water a student is pass or fail. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int pm,sm; 
+
+printf(“Enter The Pass mark & secured mark\n”); 
+
+scanf(“%d%d”, &pm,sm); 
+
+if(sm>=pm) 
+
+{ 
+
+printf(“congratulations you are passed\n”); 
+
+} 
+
+else 
+
+{ 
+
+printf(“Sorry you are failed\n”); 
+
+} 
+
+} 
+
+    Write a Programme to check whether a number is odd or even? 
+
+#include<stdio.h> 
+
+Void main() 
+
+Int number; 
+
+Printf(“Enter a Number.”); 
+
+Scanf(“%d”, &number); 
+
+If(number % 2 == 0) 
+
+{ 
+
+Printf(“The number is even.\n”); 
+
+} 
+
+Else 
+
+{ 
+
+Printf(“The Number is odd.\n”); 
+
+} 
+
+    Write a Programme to check whether a number is palindrome or not? 
+
+#include<stdio.h> 
+
+Void main() 
+
+Int P;. 
+
+    Nested if else. 
+
+Syntax:  
+
+If(Condition) 
+
+{ 
+
+Statement; //optional. 
+
+{ 
+
+Statement2; 
+
+Statement3; 
+
+Statement4; 
+
+} 
+
+else  
+
+{ 
+
+Statement1; 
+
+Statement2; 
+
+Statement3; 
+
+} 
+
+    Write to final the largest number of amounts 3 numbers? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int a,b,c; 
+
+printf(“Enter Three number:\n”); 
+
+scanf(“%d %d %d”, &a, &b &c); 
+
+if(a>b) 
+
+   { 
+
+   if(a>c) 
+
+        { 
+
+        printf(“a is largest %d\n”,a); 
+
+        } 
+
+        else 
+
+        { 
+
+printf(“c is Largest %d\n”,c); 
+
+} 
+
+    } 
+
+else 
+
+   { 
+
+   if(b>c) 
+
+   } 
+
+ printf(“b is largest %d\n”,b); 
+
+} 
+
+else 
+
+{ 
+
+printf(“c is largest %d\n”,c); 
+
+} 
+
+} 
+
+} 
+
+    Write a programme to find the division of the student if 1st division mark is 450 2nd division mark is 350 & pass mark is 250. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int sm; 
+
+printf(“Enter the secured mark:\n”); 
+
+scanf(“%d”, &sm); 
+
+if(sm>=250) 
+
+{ 
+
+printf(“Congratulation you have passed\n”); 
+
+if(sm>=450) 
+
+{ 
+
+printf(“you obtain 1st division\n”); 
+
+} 
+
+else 
+
+{ 
+
+if(sm>=350) 
+
+{ 
+
+printf(“you obtain second division\n”); 
+
+} 
+
+else 
+
+{ 
+
+printf(“you obtain 3rd division\n”); 
+
+} 
+
+} 
+
+else 
+
+{ 
+
+printf(“Sorry you failed \n”); 
+
+} 
+
+} 
+
+    Compound if: 
+
+Syntax. 
+
+if(expression 1)logicalop(expression2)logicalop………) 
+
+{ 
+
+Statement 1; 
+
+Statement 2; 
+
+Statement 3; 
+
+} 
+
+else 
+
+{ 
+
+Statement; 
+
+Statement2; 
+
+Statement3; 
+
+} 
+
+ 
+
+    Write a programme to check whether a student is pass or fail if the students having 5 subject and each subject pass mark is 30? 
+
+#include<stdio.h> 
+
+void main() 
+
+int m1,m2,m3,m4,m5; 
+
+{ 
+
+printf(“Enter 5 subject secured mark\n”); 
+
+scanf(“%d %d %d %d %d”, &m1, &m2,&m3,&m4,&m5); 
+
+if((m1>=30)&&(m2=30)&&(m3>=30)&&(m4>=30)&&(m4>=30)) 
+
+{ 
+
+printf(“Congratulations you have passed\n”); 
+
+} 
+
+else 
+
+{ 
+
+printf(“you have failed\n”); 
+
+} 
+
+} 
+
+ 
+
+    Find the total amount of electricity bill amount if the consumed unit less then 50 then per unit price is 4.5 other wise 5.5. 
+
+#include <stdio.h> 
+
+void main()  
+
+{ 
+
+    float units,totalAmount; 
+
+    printf("Enter the consumed units: "); 
+
+    scanf("%f", &units); 
+
+    if (units < 50)  
+
+    { 
+
+        totalAmount = units * 4.5; 
+
+    } 
+
+ else  
+
+    { 
+
+        totalAmount = units * 5.5; 
+
+    } 
+
+    printf("Total amount of electricity bill: %.2f/-\n", totalAmount); 
+
+} 
+
+    Write a programme to Calculate the gross salary of an employee if her basic salary more than 20,000 he/she will get 10% DA & 20% TA other wise 5% DA and 5% TA. 
+
+ 
+
+#include <stdio.h> 
+
+ 
+
+void main()  
+
+{ 
+
+    float basicSalary, grossSalary, daPercentage, taPercentage; 
+
+    printf("Enter basic salary: "); 
+
+    scanf("%f", &basicSalary); 
+
+    if (basicSalary > 20000)  
+
+    { 
+
+        daPercentage = 10; 
+
+        taPercentage = 20; 
+
+    }  
+
+    else  
+
+    { 
+
+        daPercentage = 5; 
+
+        taPercentage = 5; 
+
+    } 
+
+    grossSalary = basicSalary + (basicSalary * daPercentage / 100) + (basicSalary * taPercentage / 100); 
+
+    printf("Gross salary: %.2f\n", grossSalary); 
+
+} 
+
+ 
+
+    Loop. 
+
+Loop is the control statements which is used to execute a single or block of statement repeatedly tile the condition will be false. 
+
+ 
+
+    Initial Statement. 
+
+    Conditional Statement. 
+
+    Increment /Decrement Statement. 
+
+ 
+
+    While Loop:  
+
+Syntax. 
+
+initial Statement; 
+
+while(Condition) 
+
+{ 
+
+Statement1; 
+
+Statement2; 
+
+Statement3; 
+
+Increment/Decrement; 
+
+} 
+
+ 
+
+    Write a Programme to print “BSET” 100 times. 
+
+#include<stdio.h> 
+
+void main() 
+
+int I = 1; 
+
+while(I <= 100) 
+
+{ 
+
+printf(“BSET\n”); 
+
+i++; 
+
+} 
+
+} 
+
+ 
+
+    Write a Programme to print 1 2 3 4 5………..50. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int i = 1; 
+
+while(I <= 50) 
+
+{ 
+
+printf(“%d\n”, i); 
+
+i++; 
+
+} 
+
+} 
+
+ 
+
+    Write a Programme to print 100 98 96 ……... 0. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int i = 100; 
+
+while(I >= 0) 
+
+{ 
+
+printf(“%d”, i); 
+
+I = I – 2; 
+
+} 
+
+} 
+
+ 
+
+    Write a programme to print all even numbers between 1 to 50 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+    int i = 2; 
+
+    while(I <= 50) 
+
+    { 
+
+    printf(“%d”, i); 
+
+    i = i + 2; 
+
+    } 
+
+} 
+
+ 
+
+OR 
+
+  
+
+                    #include<stdio.h> 
+
+                      void main() 
+
+                           { 
+
+                                     int i = 1; 
+
+                                     while(I <= 50) 
+
+                                      { 
+
+                                       if(i%2 == 0) 
+
+                                      { 
+
+                                      printf(“%d”,i); 
+
+                                      } 
+
+                                      i++; 
+
+                                      } 
+
+                             } 
+
+    Write a Programme to print all the odd number between two given number. 
+
+    1+2+3+ ---------- 10. 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int Sum = 0; 
+
+int i = 1; 
+
+while(i <=10) 
+
+{ 
+
+Sum = Sum + I; 
+
+i++; 
+
+} 
+
+prtntf(“The Sum Result is %d”, Sum); 
+
+} 
+
+ 
+
+    Write a Programme to calculate the factorial of a number. 
+
+Let’s 5*4*3*2*1 
+
+          1*2*3*4*5 
+
+ 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int n,I,mul = 1; 
+
+printf (“Enter The number you want to calculate the factorial”); 
+
+scanf(“%d”,&n); 
+
+i = 1; 
+
+while (I <= n) 
+
+{ 
+
+Mul =mul *I; 
+
+i++; 
+
+} 
+
+printf(“The factorial of %d is %d”,n,mul); 
+
+} 
+
+ 
+
+ OR  
+
+ 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+int n,mul = 1; 
+
+printf(“Enter The Number u Want to calculation the factorial“); 
+
+sacnf(“%d”,&n) 
+
+While(n>0) 
+
+{ 
+
+mul = mul*n; 
+
+n--; 
+
+} 
+
+printf(“The factorial is %d”,mul); 
+
+} 
+
+    Write a C Programme to print the multiplication table. 
+
+#include<stdio.h> 
+
+void main()  
+
+{ 
+
+    int n, i = 1; 
+
+ 
+
+    printf("Enter the number you want to show the multiplication table: "); 
+
+    scanf("%d", &n); 
+
+    while (i <= 10)  
+
+    { 
+
+        printf("\t%d * %d = %d", n, i, n * i); 
+
+        i++; 
+
+    } 
+
+} 
+
+    Write a programme to check whether a given number is palindrome, or no? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+    int n,num,rem,rev=0; 
+
+    printf("Enter The number: "); 
+
+    scanf("%d",&n); 
+
+    num=n; 
+
+    while(n>0) 
+
+    { 
+
+        rem = n % 10; 
+
+        rev = rev * 10+rem; 
+
+        n = n / 10; 
+
+    if(rev == num) 
+
+    printf("%d is palindrom Number.",rev); 
+
+    else 
+
+    printf("The Entered number %d is not Palindrom",num); 
+
+    } 
+
+} 
+
+    Do While. 
+
+Syntax: 
+
+Initial Statement; 
+
+do 
+
+{ 
+
+Statement 1; 
+
+Statement  2; 
+
+Statement 3; 
+
+Statement4; 
+
+Statement n; 
+
+Increment/decrement; 
+
+While(condition); 
+
+} 
+
+    Difference: - 
+
+    In while first check the condition if condition will tree it execute the while block statements otherwise skip the while block Statement. 
+
+    In case of do while if execute the do block statement at last once even if condition may false for first case. 
+
+    Wite a programme in C Language in while check the factorial number or not? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+    int n,f=1; 
+
+    printf("Enter any Number:"); 
+
+    scanf("%d",&n); 
+
+    while(n>0) 
+
+    { 
+
+        f=f*n; 
+
+        n--; 
+
+    } 
+
+    printf("The factorial is %d",f); 
+
+} 
+
+    Wite a programme in C Language in do while check the factorial number or not? 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+    int n,f=1; 
+
+    printf("Enter any Number:"); 
+
+    scanf("%d",&n); 
+
+    do 
+
+    { 
+
+     f=f*n; 
+
+     n--; 
+
+    }  
+
+    while(n>0); 
+
+    printf("The Factrial Number is %d",f);    
+
+             } 
+
+    Write a Programme to calculate the Fibonacci sequence of n terms? 
+
+0 1 1 2 3 5 8………n 
+
+#include<stdio.h> 
+
+void main() 
+
+{ 
+
+    int n,i = 1,n1, n2, n3; 
+
+    n1 = 0; 
+
+    n2 = 1; 
+
+    printf("Ente The Number of Terms:"); 
+
+    scanf("%d",&n); 
+
+    printf("%d %d",n1,n2); 
+
+    while(i <= n - 2) 
+
+    { 
+
+        n3 = n1 + n2; 
+
+        n1 + n2; 
+
+        n2 = n3; 
+
+        i++; 
+
+    } 
+
+} 
+
+    Write a Programme to check whether a number is Armstrong or not? 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
