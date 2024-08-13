@@ -1,0 +1,21 @@
+	#include<stdio.h>
+	#include<conio.h> //This Faction Only Used To Turbu++
+	#include<string.h>
+	void main()
+	{
+	    char str1[10];
+	    char str2[10];
+	    clrscr(); //This Faction Only Used To Turbu++
+	    printf("enter 1st string\n");
+	    scanf("%s", &str1);
+	    printf("enter 2nd string\n");
+	    scanf("%s", &str2);
+	    if (strcmp(str1, str2) == 0)
+	    {
+	        printf("two strings areequal");
+	    }
+	    else
+	    {
+	        printf("two strings are not equal");
+	    }
+	}
