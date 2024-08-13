@@ -1,0 +1,16 @@
+	#include <stdio.h>
+	#include <conio.h> //This Faction Only Used To Turbu++
+	#include <string.h>
+	void main()
+	{
+	    char str1[30];
+	    char str2[30];
+	    clrscr();  //This Faction Only Used To Turbu++
+	    printf("Enter 1st String\n");
+	    scanf("%s", str1);
+	    printf("Enter 2nd String\n");
+	    scanf("%s", str2);
+	    strcat(str1, str2);
+	    printf("The result string after concatenation %s", str1);
+	    
+	}
