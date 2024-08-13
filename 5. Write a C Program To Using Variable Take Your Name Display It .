@@ -1,0 +1,10 @@
+	#include<stdio.h>
+	#include<conio.h>
+	void main() 
+	{
+	    clrscr(); //This Faction Only Used To Turbu++
+	    char name[20];
+	    printf("Enter your name: ");
+	    scanf("%s", name);
+	    printf("Your name is %s", name);
+	}
