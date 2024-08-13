@@ -1,2 +1,2 @@
-# C-Programming-
-All bignar to Advance C Programming Laguage 2024.
+# C-Programming
+Bignar to Advance C Programming Language 2024.
