@@ -1,0 +1,15 @@
+	#include <stdio.h>
+	#include <conio.h>
+	#include <string.h>
+	void main() 
+	{
+	    char str1[30];
+	    char str2[30];
+	    clrscr();  //This Faction Only Used To Turbu++
+	    printf("Enter 1st string\n");
+	    scanf("%s", str1);
+	    printf("Enter 2nd string\n");
+	    scanf("%s", str2);
+	    strcpy(str1, str2);
+	    printf("The copied string is %s", str1);
+	}
